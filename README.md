@@ -13,12 +13,12 @@ A quantitative content analysis examining whether Pitchfork's album reviews disp
 | Hypothesis | Result |
 |---|---|
 | H1: Non-Anglo artists < 25% of sample | Not supported (26.67%) |
-| H2: >30% of non-Anglo artists tagged as "Global" | Partially supported |
-| H3: No score difference between Anglo/non-Anglo artists | Supported |
+| H2: >30% of non-Anglo artists tagged as "Global" | Fully supported (34.72%) |
+| H3: No score difference between Anglo/non-Anglo artists | Supported (*p* = .181, *p* = .569) |
 
 ## Files
 
-- `data/pitchfork_270.csv` — coded dataset
+- `data/SAMPLE DATA.csv` — coded dataset
 - `analysis/analysis.R` — R analysis script
 - `codebook.pdf` — variable definitions and coding rules
 

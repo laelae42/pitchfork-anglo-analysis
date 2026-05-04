@@ -2,7 +2,7 @@ library(dplyr)
 library(readr)
 library(ggplot2)
 
-pitchfork <- read_csv('~/Downloads/Pitchfork_sample_data.csv')
+pitchfork <- read_csv('/content/SAMPLE_DATA.csv', show_col_types = FALSE)
 
 pitchfork_clean <- pitchfork %>%
   # Primary Genre: convert to factor
@@ -127,4 +127,5 @@ model <- lm(review_score ~ is_anglo + primary_genre,
             data = pitchfork_clean)
 
 summary(model)
+
 

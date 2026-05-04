@@ -20,7 +20,7 @@ A quantitative content analysis examining whether Pitchfork's album reviews disp
 
 - `data/pitchfork_270.csv` — coded dataset
 - `analysis/analysis.R` — R analysis script
-- `codebook/codebook.md` — variable definitions and coding rules
+- `codebook.pdf` — variable definitions and coding rules
 
 ***
 

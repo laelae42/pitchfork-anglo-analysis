@@ -1,5 +1,3 @@
-# pitchfork-anglo-analysis
-Final Project code for kcl course data collection and analytics
 # Pitchfork Anglocentrism Study
 
 A quantitative content analysis examining whether Pitchfork's album reviews display Anglo-centric bias towards artists from Anglo-American countries.
